@@ -3,3 +3,7 @@
 /1.DataIngestion_and_Parsing/rag_env__1
 /1.DataIngestion_and_Parsing/pyproject.toml
 
+.env
+Rag_env_U/
+
+

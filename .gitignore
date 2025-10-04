@@ -6,5 +6,6 @@
 .env
 Rag_env_U/
 *.env
+*.bin
 
 
